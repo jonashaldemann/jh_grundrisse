@@ -3,7 +3,7 @@ const app = express();
 const PORT = 3000;
 
 const grundrisse = [
-    { id: 1, imagePath: '/images/grundriss1.jpg', typology: 'zentral', form: 'rechteckig', size: 75 },
+    { id: 1, imagePath: '/images/tracmann_aeger.jpg', typology: 'Zweispänner', form: 'Riegel', size: 75 },
     { id: 2, imagePath: '/images/grundriss2.jpg', typology: 'seitlich', form: 'L-förmig', size: 120 },
     // Weitere Einträge...
 ];
